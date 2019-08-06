@@ -7,6 +7,8 @@ Civ6_Map_Utility_Advanced was created to explore possibility of creating map tem
 For Executable Release and more info about the program to go:
 https://github.com/iluzek/Civ6_Map_Utility_Advanced/releases
 
+Initial release of exe was available on https://forums.civfanatics.com/resources/civ6_map_utility.25602/
+
 ## Direct links to the downloads :
 https://github.com/iluzek/Civ6_Map_Utility_Advanced/releases/download/1.5.0/Civ6_Map_Utility.exe
 https://github.com/iluzek/Civ6_Map_Utility_Advanced/archive/1.5.0.zip
