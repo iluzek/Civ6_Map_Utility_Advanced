@@ -20,8 +20,8 @@ Project written in C# with use of Visual Studio 2015. Still working with Visual 
 
 - Using Visual Studio open "Civ6_Map_Utility_Advanced.sln"
 
-## Project Originally Uploaded to "https://forums.civfanatics.com/resources/civ6_map_utility.25602/"
 ## What Civ6_Map_Utility does:
+
 ### Civ6_Map_Utility has two sections:
 - **Map Sizes - Adds custom map sizes to the game**
 - **Map Scripts - Adds external map scripts to the game (does not generate scripts)**<br />
@@ -122,31 +122,6 @@ Example:
   
 2. Map sizes are not the same as map scripts - map scripts determine spawning of the world and as such, there is no guarantee that the map size selected will work well with your script map and player number.  
 You might load the game and see no players or starting position as game was unable to find a suitable place for you to spawn. Reloading the map/script usually works, however this again I cannot predict.  
-  
-  
-> **Support:**  
-If you are able to provide additional information regarding values and ranges.  
-If you have an idea how to improve the application - visually or functionally.  
-Please share it with myself and other community members within Utility's Discussion page.  
-  
-> **Changelog from 2016-11-20:**  
-1.Default settings for 'Huge' Map' have been set as 'default' values when loading the application.  
-2.Minimum and maximum values set to facilitate more sensible map size creation.  
-3.Minimum, Maximum and Default values are now limited by each other.  
-4."Experimental settings" checkbox added to ignore sensible map settings.  
-5."Reset Fields" button added to restore defaults from first load.  
-6.Tooltips updated with more relevant information.  
-7.Game path field set to read only to disable invalid path input.  
-8.Miscellaneous Layout and Label Changes.  
-9.Better Icon created and added to the executable file.  
-  
-> **Changelog 2 from 2016-11-20:**  
-1.Rebuild the Civ6_Map_Utility.exe as for some reason previous version is getting flagged for malicious code. No real changes made, but this .exe seems to work fine.  
-  
-**Changelog from 2016-11-21:**  
-1. Minor cosmetic layout changes to accommodate new functionality.  
-2. Default game sizes were added in form of presets.  
-3. Significant progress was made to the Map Scripts Section, however it stays hidden until fully functional.  
   
 > **Changelog from 2016-11-22:**  
 1. Map Scripts section added to facilitate easy installation of game scripts without modifying existing xml files.  
