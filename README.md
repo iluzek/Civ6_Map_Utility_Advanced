@@ -110,9 +110,9 @@ To remove single map script go to the same directory and remove files:
 - SCRIPT_NAME_MapSettings.xml  
 
 - SCRIPT_NAME_StandardMaps.xml
-**Troubleshooting:  
-**  
-> **Settings Problems:**  
+
+### Troubleshooting:
+> ***Settings Problems:***  
 Minimum, Maximum and Default values are described within TOOLTIPS- they can be read by hovering mouse over text.  
 Experimental settings need to be tested by community and can be enhanced with use of other mods.  
 If your game crashes, try different settings. I am unable to test all of them.  
