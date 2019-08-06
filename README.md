@@ -1,9 +1,16 @@
 # Civ6_Map_Utility_Advanced
-**What Civ6_Map_Utility does: **Civ6_Map_Utility has two sections:****  
-
+## What Civ6_Map_Utility does:
+### Civ6_Map_Utility has two sections:
 - **Map Sizes - Adds custom map sizes to the game**
-- **Map Scripts - Adds external map scripts to the game (does not generate scripts)**
-**Map Sizes section allows to add custom map sizes to the game.**  
+- **Map Scripts - Adds external map scripts to the game (does not generate scripts)**<br />
+#### Map Sizes section allows to add custom map sizes to the game.
+
+- Create Map Sizes like 20x20, 100x200, 160x160 tiles.
+- Select number of players.
+- Select number of city states.
+- Select number of natural wonders.
+- Select number of continents.
+- Select number of Prophets.
 
 - Create Map Sizes like 20x20, 100x200, 160x160 tiles.
 - Select number of players.
@@ -27,7 +34,7 @@ When new game starts.
 <br />![alt text](http://i.imgur.com/q0WLlge.jpg)<br />
 <br />![alt text](http://i.imgur.com/geeHLQD.jpg)<br />
 
-**Map Scripts section allows to add custom map scripts to the game.**  
+#### Map Scripts section allows to add custom map scripts to the game.
   
 Adding map scripts with Civ6_Map_Utility is easy.
 
