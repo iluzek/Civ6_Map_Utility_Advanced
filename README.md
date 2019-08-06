@@ -124,7 +124,3 @@ Example:
   
 2. Map sizes are not the same as map scripts - map scripts determine spawning of the world and as such, there is no guarantee that the map size selected will work well with your script map and player number.  
 You might load the game and see no players or starting position as game was unable to find a suitable place for you to spawn. Reloading the map/script usually works, however this again I cannot predict.  
-  
-> **Changelog from 2016-11-22:**  
-1. Map Scripts section added to facilitate easy installation of game scripts without modifying existing xml files.  
-2. Confirm overwrite yes/no popup message when files already exist - implemented.
